@@ -36,6 +36,16 @@ li:hover{
     margin-bottom: auto;
 }
 
+.float-right {
+    float: right;
+    border: 15px;
+    border-radius: 15px;
+    background-color: aliceblue;
+    padding: 10px;
+    margin-right: 20px;
+    margin-bottom: auto;
+}
+
 .no-underline {
     text-decoration: none;
 }
