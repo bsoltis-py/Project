@@ -74,6 +74,9 @@ h1,h2,h3 {
     font-weight: 100;
     font-style: normal;
     border: 10px;
+    border-color: aliceblue;
+    border-style: double;
+    border-radius: 10px;
     padding-top: 10px;
     padding-bottom: 5;
     color: aliceblue;
