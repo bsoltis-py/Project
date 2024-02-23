@@ -100,7 +100,7 @@ p {
 }
 
 img{
-    float: right;
+    float: right;   
     height: 400px;
     width: 400px;
     outline-color: black;
@@ -112,6 +112,7 @@ img{
     max-width: 100%;
     height: auto;
     display: block; 
+    }
 
 a,ol,ul{
     color: aliceblue;
