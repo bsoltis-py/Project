@@ -56,3 +56,11 @@ max-width: 50%;
 float: right;
 max-width: 50%;
 }
+
+.footer-bottom {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
