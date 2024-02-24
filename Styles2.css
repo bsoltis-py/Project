@@ -51,6 +51,7 @@ a{
     color: white;
     background-color: black;
     border-style: groove;
+    border-color: aliceblue;
     font-size: larger;
 }
 
