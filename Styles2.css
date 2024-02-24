@@ -37,7 +37,6 @@ p {
     font-size: 45px;
     border-color:aliceblue;
     border: 10px;
-    border-style: dotted;
 }
 
 ul{
@@ -52,7 +51,7 @@ a{
     background-color: black;
     border-style: groove;
     border-color: aliceblue;
-    font-size: larger;
+    font-size: 25px;
 }
 
 .float-left {
