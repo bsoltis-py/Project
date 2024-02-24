@@ -47,6 +47,13 @@ ul{
     border-style: dotted;
 }
 
+a{
+    color: white;
+    background-color: black;
+    border-style: groove;
+    font-size: larger;
+}
+
 .float-left {
 float: left;
 max-width: 50%;
@@ -68,3 +75,4 @@ max-width: 50%;
 .no-underline {
 text-decoration: none;
 }
+
